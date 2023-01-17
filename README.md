@@ -12,7 +12,7 @@ I hold a master’s degree in Aeronautical Engineering from the University of Be
 - 🤖 Machine Learning 
 - 👨‍💻 Programming - Python, Julia, R
 # 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmanuelCastanho&show_icons=true&theme=algolia&line_height=20) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmanuelCastanho&theme=algolia&layout=compact)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmanuelCastanho&show_icons=true&theme=algolia&line_height=20&card_width=400px) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmanuelCastanho&theme=algolia&layout=compact)
 
 
 
