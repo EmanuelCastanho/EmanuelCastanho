@@ -1,5 +1,5 @@
 ## Welcome! 👋
-[![Website Badge](https://img.shields.io/badge/My-Website-purple)](emanuelcc.github.io)
+[![Website Badge](https://img.shields.io/badge/My-Website-purple)](https://emanuelcastanho.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/emanuel-castanho/)
 
 **About me:**<br />
