@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/emanuel-castanho/)
 
 **About me:**<br />
-I hold a master’s degree in Aeronautical Engineering from the University of Beira Interior ([UBI](https://www.ubi.pt)), Covilhã, Portugal. Currently, I work at the Earth Observation Laboratory ([AIR Centre](https://www.aircentre.org)) as a Project Developer in projects of national and European scope. I specialize in Earth Observation data applications across ocean science domains, with a special focus on advanced machine learning techniques and their use in satellite optical data. I am also involved in operations phases of new satellite missions, including use case definition according to stakeholder needs.
+I hold a master’s degree in Aeronautical Engineering from the University of Beira Interior ([UBI](https://www.ubi.pt)), Covilhã, Portugal. Currently, I work at the Earth Observation Laboratory ([AIR Centre](https://www.aircentre.org)) as a Project Developer in projects of national and European scope. I specialize in EO data applications across ocean science domains, with a special focus on advanced machine learning techniques and their use in satellite optical data. I am also involved in operations phases of new satellite missions, including use case definition according to stakeholder needs.
 
 **Interests:**
 - ✈️ Aeronautics 
