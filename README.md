@@ -6,6 +6,9 @@
 My specialization is EO data applications across ocean science domains, with a special focus on advanced Machine Learning techniques applied to satellite optical data. I am open for collaborations, code sessions or talk about the aerospace sector!
 
 **Experience:**
+_Current_
+- Earth Observation Data Services Engineer @ [EUMETSAT](https://www.eumetsat.int/) (via [Innoflair](https://www.innoflair.com/))
+_Past_
 - Project Developer @ Atlantic International Research Centre ([AIR Centre](https://www.aircentre.org))
 - Aeronautical Engineering @ University of Beira Interior ([UBI](https://www.ubi.pt))
 
